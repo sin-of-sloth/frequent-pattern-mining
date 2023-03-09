@@ -9,6 +9,20 @@
     </a>
 </p>
 
+Done as part of CS-570: Data Mining instructed by [Dr. Carl Yang](https://www.cs.emory.edu/~jyang71/).
+
+## Contents
+
+1. [The Data](#1-the-data)
+2. [Further Preprocessing](#2-further-preprocessing)
+3. [Partitioning](#3-partitioning)
+4. [Mining Frequent Patterns for Each Topic](#4-mining-frequent-patterns-for-each-topic)
+5. [Mining Maximal / Closed Patterns](#5-mining-maximal--closed-patterns)
+6. [Re-rank by Purity of Patterns](#6-re-rank-by-purity-of-patterns)
+7. [Mapping Term ID Numbers to Terms from the Vocabulary](#7-mapping-term-id-numbers-to-terms-from-the-vocabulary)
+8. [Source Code and Method Details](#8-source-code-and-method-details)
+9. [Additional Information](#9-additional-information)
+
 ## 1 The Data
 
 The data consists of paper titles from conferences in computer science of 5 domains: ***Data Mining (DM)***, ***Machine
